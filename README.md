@@ -11,5 +11,3 @@ Problems to be discussed:-
 More problems for practice:
 1) https://codeforces.com/problemset/problem/1738/B
 2) https://codeforces.com/problemset/problem/1625/C
-
-Solutions will be added after the Codeclass
